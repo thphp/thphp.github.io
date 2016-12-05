@@ -322,7 +322,7 @@ blockquote:last-child {
 }
 .page-content table tr td:first-of-type{
 	padding: 6px 10px 6px 10px;
-	border-right: 1px dashed #ddd; 
+	/*border-right: 1px dashed #ddd; */
 	text-align: right;
 }
 
