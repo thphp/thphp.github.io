@@ -3,8 +3,9 @@
  */
 /* commom */
 body {
-	background-image: url('/css/pics/u=3375924500,918979470&fm=21&gp=0.jpg');
-	background-repeat:no-repeat;
+	background-color: #F8F8FD;
+	/*background-image: url('/css/pics/u=3375924500,918979470&fm=21&gp=0.jpg');*/
+	/*background-repeat:no-repeat;*/
     font-family: 'Microsoft YaHei', 'SimHei', sans-serif;
 }
 article p{
